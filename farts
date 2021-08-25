@@ -846,7 +846,7 @@ button[aria-label="Send a gift"] {
   display: none;
 }
 .wordmark-2iDDfm:after {
-  content: "𝗗𝗮𝗿𝗸+ 𝗯𝘆 𝗗𝗲𝘃𝗘𝘃𝗶𝗹#𝟴𝟳𝟰𝟱";
+  content: "Moon";
 }
 
 .channelName-2YrOjO,
